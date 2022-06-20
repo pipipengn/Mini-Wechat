@@ -1,0 +1,30 @@
+{
+  "id": "3439766",
+  "name": "ppp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5387490",
+      "name": "指南针",
+      "font_class": "zhinanzhen",
+      "unicode": "eae9",
+      "unicode_decimal": 60137
+    },
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11372682",
+      "name": "朋友圈",
+      "font_class": "pengyouquan",
+      "unicode": "e8b4",
+      "unicode_decimal": 59572
+    }
+  ]
+}
